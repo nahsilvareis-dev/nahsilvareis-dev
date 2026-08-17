@@ -1,7 +1,7 @@
 
 # Olá, eu sou o Naftali! 👋
 
-Bem-vindo(a) ao meu perfil no GitHub! Sou desenvolvedor(a) focado(a) em criar soluções funcionais e impactantes para a web.
+Bem-vindo(a) ao meu perfil no GitHub! Sou desenvolvedora focada em criar soluções funcionais e impactantes para a web.
 
 ---
 
