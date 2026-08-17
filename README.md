@@ -1,49 +1,38 @@
-
 # Olá, eu sou o Naftali! 👋
 
-Bem-vindo(a) ao meu perfil no GitHub! Sou desenvolvedora focada em criar soluções funcionais e impactantes para a web.
+Desenvolvedora focada em criar aplicações web funcionais, escaláveis e de alto impacto social.
 
 ---
 
 ### 🚀 Sobre Mim
 
-* 🎓 Estudante de Desenvolvimento de Software / Ciência da Computação.
-* 💡 Apaixonado(a) por resolver problemas reais através do código.
-* 🌱 Atualmente aprofundando meus conhecimentos no ecossistema **Python (Flask)** e desenvolvimento web.
-* 🎯 Em busca de oportunidades para colaborar em projetos práticos e evoluir na área de tecnologia.
+* **Contexto:** Estudante de Ciência da Computação / Desenvolvimento de Software.
+* **Ação:** Construção contínua de projetos práticos utilizando o ecossistema Python e arquiteturas web modernas.
+* **Resultado:** Domínio consolidado na criação de APIs, roteamento dinâmico e integração com bancos de dados.
+* **Próximo Passo:** Expandir atuação em projetos colaborativos de código aberto e oportunidades no mercado dev.
 
 ---
 
-### 🛠️ Minha Stack & Ferramentas
+### 🛠️ Stacks e Ferramentas
 
-**Linguagens & Frameworks:**
-* **Back-end:** Python, Flask
-* **Front-end:** HTML5, CSS3, JavaScript
-* **Banco de Dados:** SQLite / PostgreSQL
-
-**Ferramentas & Outros:**
-* Git & GitHub
-* VS Code
-* Linux / Windows Terminal
+* **Back-end:** Python | Flask | SQLite | PostgreSQL
+* **Front-end:** HTML5 | CSS3 | JavaScript
+* **DevOps & Versionamento:** Git | GitHub | VS Code | Terminal Linux/Windows
 
 ---
 
-### 🌟 Projeos em Destaque
+### 🌟 Projetos em Destaque
 
-* **[Mãos que Ajudam](https://github.com/nahsilvareis-dev/Projeto-M-os-Que-Ajudam)**: Aplicação web desenvolvida em Flask para apoio e gestão de campanhas de doação.
-
----
-
-### 📬 Como me encontrar
-
-* **LinkedIn:**(https://www.linkedin.com/in/naftali-silva-reis-4bb0652b8/))
+* **[Mãos que Ajudam](https://github.com/nahsilvareis-dev/Projeto-M-os-Que-Ajudam):** 
+  * **Contexto:** Necessidade de centralização e gestão de doações para iniciativas comunitárias.
+  * **Ação:** Desenvolvida aplicação web completa com Flask, Jinja2 e controle de persistência em CSV/SQL.
+  * **Resultado:** Interface responsiva com métricas e transparência do volume de doações arrecadadas.
 
 ---
 
-> *"Sempre aprendendo, praticando e evoluindo!"*
+### 📬 Contato
 
-
-
+* **LinkedIn:**(https://www.linkedin.com/in/naftali-silva-reis-4bb0652b8/)/)
 
 
 
