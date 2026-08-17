@@ -1,84 +1,46 @@
-# 👋 Olá, eu sou Naftali!
 
-💻 **Estudante de Tecnologia da Informação** | 🚀 Em constante aprendizado | 🧠 Apaixonado por tecnologia
+# Olá, eu sou o Naftali! 👋
 
-Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento de sistemas e ferramentas utilizadas no mercado de tecnologia.
-
----
-
-## 🚀 Sobre mim
-
-* 📚 Estudando **Tecnologia da Informação**
-* 💻 Desenvolvendo projetos para praticar meus conhecimentos
-* 🌱 Aprendendo novas tecnologias continuamente
-* 🎯 Buscando uma oportunidade para iniciar minha carreira na área de TI
-* 🔨 Construindo meu portfólio através de projetos práticos
+Bem-vindo(a) ao meu perfil no GitHub! Sou desenvolvedor(a) focado(a) em criar soluções funcionais e impactantes para a web.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+### 🚀 Sobre Mim
 
-### 💻 Linguagens
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### 🔧 Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
-
-## 📌 Projetos
-
-🚧 **Projetos em desenvolvimento**
-
-Estou criando projetos para colocar em prática meus conhecimentos e construir meu portfólio profissional.
+* 🎓 Estudante de Desenvolvimento de Software / Ciência da Computação.
+* 💡 Apaixonado(a) por resolver problemas reais através do código.
+* 🌱 Atualmente aprofundando meus conhecimentos no ecossistema **Python (Flask)** e desenvolvimento web.
+* 🎯 Em busca de oportunidades para colaborar em projetos práticos e evoluir na área de tecnologia.
 
 ---
 
-## 🎯 Objetivos
+### 🛠️ Minha Stack & Ferramentas
 
-* [ ] Aprimorar meus conhecimentos em Python
-* [ ] Desenvolver projetos completos
-* [ ] Aprender banco de dados
-* [ ] Aprofundar meus conhecimentos em Git e GitHub
-* [ ] Criar um portfólio profissional
-* [ ] Conquistar uma oportunidade na área de TI
+**Linguagens & Frameworks:**
+* **Back-end:** Python, Flask
+* **Front-end:** HTML5, CSS3, JavaScript
+* **Banco de Dados:** SQLite / PostgreSQL
 
----
-
-## 📚 Atualmente estudando
-
-```text
-🐍 Python
-🌐 HTML & CSS
-🗄️ Banco de Dados
-🔧 Git & GitHub
-💡 Lógica de Programação
-```
+**Ferramentas & Outros:**
+* Git & GitHub
+* VS Code
+* Linux / Windows Terminal
 
 ---
 
-## 📫 Contato
+### 🌟 Projeos em Destaque
 
-💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/)
-
-🐙 **GitHub:** [nahsilvareis-dev](https://github.com/nahsilvareis-dev)
+* **[Mãos que Ajudam](https://github.com/nahsilvareis-dev/Projeto-M-os-Que-Ajudam)**: Aplicação web desenvolvida em Flask para apoio e gestão de campanhas de doação.
 
 ---
 
-<div align="center">
+### 📬 Como me encontrar
 
-### 🚀 Sempre aprendendo, praticando e evoluindo!
+* **LinkedIn:**(https://www.linkedin.com/in/naftali-silva-reis-4bb0652b8/))
 
-⭐ **Obrigado por visitar meu perfil!**
+---
 
-</div>
-
-
+> *"Sempre aprendendo, praticando e evoluindo!"*
 
 
 
