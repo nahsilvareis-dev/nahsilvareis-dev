@@ -1,3 +1,4 @@
+
 # Olá, eu sou o Naftali! 👋
 
 > **Desenvolvedora Python & Flask focado em criar aplicações web funcionais, acessíveis e com impacto social real.**
@@ -33,9 +34,7 @@ Busco oportunidades como **Desenvolvedor Web Junior / Estagiário Back-end (Pyth
 
 ### 📬 Contato
 
-* **LinkedIn:**(https://www.linkedin.com/in/naftali-silva-reis-4bb0652b8/)/)
-
-
+* **LinkedIn:** (https://www.linkedin.com/in/naftali-silva-reis-4bb0652b8/?locale=%29)/)]
 
 
 
